@@ -3,9 +3,10 @@
 > *"Took a sledgehammer to my comfort zone. Currently homeless."*
 
 <br>
-🌱 Full-time learner — React & Next.js<br><br>
-⚡ Working through a structured 22-project roadmap<br><br>
-🎯 Goal: production-ready full stack developer<br><br>
+
+🌱 Full-time learner — React & Next.js<br>
+⚡ Working through a structured 22-project roadmap<br>
+🎯 Goal: production-ready full stack developer<br>
 📅 Started: April 2026
 
 ---
@@ -27,7 +28,10 @@ Task Manager — Phase 1, Project 1
 ---
 
 ## 🛠️ Current Stack
-Next.js · React · TypeScript · Tailwind · shadcn/ui
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 ---
 
@@ -52,11 +56,13 @@ Next.js · React · TypeScript · Tailwind · shadcn/ui
 
 ![Mehran's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebymehran&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=codebymehran&theme=tokyonight)
+
 ---
 
 ## 📫 Contact
 
-🌐 [mehrankhan.net](https://mehrankhan.net) <br>
+🌐 [mehrankhan.net](https://mehrankhan.net)<br>
 ✉️ [mehran@mehrankhan.net](mailto:mehran@mehrankhan.net)
 
 ---
