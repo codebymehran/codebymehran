@@ -1,7 +1,6 @@
 # Hi, I'm Mehran 👋
 
 > *"Took a sledgehammer to my comfort zone. Currently homeless."*
-> *"Burned the map. Building the road as I go."*
 
 🌱 Full-time learner — React & Next.js
 ⚡ 6–8 hrs/day · working through a structured 22-project roadmap
@@ -57,3 +56,7 @@ Projects done: 0 / 22 · Current phase: 1 · Days in: 1
 
 🌐 [mehrankhan.net](https://mehrankhan.net)
 ✉️ [mehran@mehrankhan.net](mailto:mehran@mehrankhan.net)
+
+---
+
+*"Burned the map. Building the road as I go."*
