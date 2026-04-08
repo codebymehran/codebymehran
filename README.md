@@ -30,8 +30,10 @@ Task Manager — Phase 1, Project 1
 ## 🛠️ Current Stack
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white)
 
 ---
 
