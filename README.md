@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Mehran 👋
 
-<!--
-**codebymehran/codebymehran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"Took a sledgehammer to my comfort zone. Currently homeless."*
+> *"Burned the map. Building the road as I go."*
 
-Here are some ideas to get you started:
+🌱 Full-time learner — React & Next.js
+⚡ 6–8 hrs/day · working through a structured 22-project roadmap
+🎯 Goal: production-ready full stack developer
+📅 Started: April 2026
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔨 Currently Building
+Task Manager — Phase 1, Project 1
+
+---
+
+## 🗺️ Learning Journey
+
+| Phase | Focus | Status |
+|-------|-------|--------|
+| Phase 1 | Core React — state, hooks, TypeScript | 🔄 In progress |
+| Phase 2 | Next.js — routing, server components, auth | ⏳ Upcoming |
+| Phase 3 | Full stack — databases, payments, deployment | ⏳ Upcoming |
+| Phase 4 | Production — testing, performance, real product | ⏳ Upcoming |
+
+---
+
+## 🛠️ Current Stack
+Next.js · React · TypeScript · Tailwind · shadcn/ui
+
+---
+
+## 📌 Projects
+
+| # | Project | Repo | What I learned |
+|---|---------|------|----------------|
+| 1 | Task Manager | | |
+| 2 | Expense Tracker | | |
+| 2.5 | Weather Widget | | |
+| 3 | Quiz App | | |
+
+---
+
+## 📊 Progress
+Projects done: 0 / 22 · Current phase: 1 · Days in: 1
+
+---
+
+## 📈 GitHub Stats
+
+![Mehran's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebymehran&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+🌐 [mehrankhan.net](https://mehrankhan.net)
+✉️ [mehran@mehrankhan.net](mailto:mehran@mehrankhan.net)
