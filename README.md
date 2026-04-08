@@ -2,9 +2,9 @@
 
 > *"Took a sledgehammer to my comfort zone. Currently homeless."*
 
-🌱 Full-time learner — React & Next.js<br>
-⚡ Working through a structured 22-project roadmap<br>
-🎯 Goal: production-ready full stack developer<br>
+🌱 Full-time learner — React & Next.js<br><br>
+⚡ Working through a structured 22-project roadmap<br><br>
+🎯 Goal: production-ready full stack developer<br><br>
 📅 Started: April 2026
 
 ---
