@@ -3,7 +3,7 @@
 > *"Took a sledgehammer to my comfort zone. Currently homeless."*
 
 🌱 Full-time learner — React & Next.js
-⚡ 6–8 hrs/day · working through a structured 22-project roadmap
+⚡ Working through a structured 22-project roadmap
 🎯 Goal: production-ready full stack developer
 📅 Started: April 2026
 
