@@ -43,7 +43,8 @@ Next.js · React · TypeScript · Tailwind · shadcn/ui
 ---
 
 ## 📊 Progress
-Projects done: 0 / 22 · Current phase: 1 · Days in: 1
+
+**Projects done: 0 / 22 · Current phase: 1 · Days in: 1**
 
 ---
 
