@@ -49,13 +49,13 @@ Projects done: 0 / 22 · Current phase: 1 · Days in: 1
 
 ## 📈 GitHub Stats
 
-![Mehran's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebymehran&show_icons=true&theme=tokyonight)
+![Mehran's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebymehran&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
 ## 📫 Contact
 
-🌐 [mehrankhan.net](https://mehrankhan.net)
+🌐 [mehrankhan.net](https://mehrankhan.net) <br>
 ✉️ [mehran@mehrankhan.net](mailto:mehran@mehrankhan.net)
 
 ---
